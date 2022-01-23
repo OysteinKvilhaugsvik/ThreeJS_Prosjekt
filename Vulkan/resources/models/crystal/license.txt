@@ -1,0 +1,11 @@
+Model Information:
+* title:	Crystal
+* source:	https://sketchfab.com/3d-models/crystal-1c8338082b0a4c13bb59d27b21c30968
+* author:	Finn_Swift (https://sketchfab.com/Finn_Swift)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Crystal" (https://sketchfab.com/3d-models/crystal-1c8338082b0a4c13bb59d27b21c30968) by Finn_Swift (https://sketchfab.com/Finn_Swift) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
